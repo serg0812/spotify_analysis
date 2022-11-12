@@ -16,7 +16,7 @@
 
 Welcome to Spotify Analysis. 
 Enjoy learning more about the music you listen to and your personal listening habits.
-
+And much more
 
 <a name="installation"></a>
 ## Installation 
